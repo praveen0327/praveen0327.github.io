@@ -6,7 +6,7 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {"assets/AssetManifest.bin": "9edea2fdbbfde505a0eafa32c66c0f7a",
 "assets/AssetManifest.bin.json": "197aa2dd0a3c28d7b51e20414d57a5a0",
 "assets/AssetManifest.json": "8803c831ddff2f1dcb4f81e7113c376a",
-"assets/assets/ac.jpg": "75216193bc40c0541d79e672dbdf6131",
+"./assets/assets/ac.jpg": "75216193bc40c0541d79e672dbdf6131",
 "assets/assets/agnice.jpg": "ee655a1f7f5a8ff0e2146fcd44f9ac9b",
 "assets/assets/aljiada.png": "2a8f91714ec44d74610045705a137995",
 "assets/assets/almadena.png": "f4ac31d7ba31d636c6d995b86a2cec3a",
